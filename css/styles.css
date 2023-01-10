@@ -31,33 +31,35 @@ img {
 }
 
 h1 {
-  color: #ffffff;
+  color: #fff;
   font-family: Helvetica, Arial, sans-serif;
 }
 
 h6 {
-  color: #ffffff;
+  color: #fff;
   font-family: Helvetica, Arial, sans-serif;
 }
 
 p {
-  color: #ffffff;
+  color: #fff;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
   padding-top: 5pt;
 }
 
 .mdl-textfield {
-  color: #ffffff;
+  color: #fff;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
   padding-top: 5pt;
 }
 
 form {
-  color: #ffffff;
+  color: #fff;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 div {
-  color: #ffffff;
+  color: #fff;
+  font-family: Helvetica, Arial, sans-serif;
 }
